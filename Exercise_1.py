@@ -19,6 +19,6 @@ class myStack:
 
 s = myStack()
 s.push('1')
-s.push('2')
+s.push('4343')
 print(s.pop())
 print(s.show())
